@@ -14,12 +14,12 @@ A color scheme for [iTerm2](http://iterm2.com/) based on [Afterglow Theme for Su
 Clone the repository:
 
 ```bash
-$ git clone https://github.com/yabatadesign/afterglow-itermcolors/
+git clone https://github.com/jmstfv/afterglow-itermcolors/
 ```
 
 ### Install manually
 
-Download the [GitHub .zip](https://github.com/yabatadesign/afterglow-itermcolors/archive/master.zip) and unzip them.
+Download the [GitHub .zip](https://github.com/jmstfv/afterglow-itermcolors/archive/master.zip) and unzip them.
 
 ## Activating theme
 
